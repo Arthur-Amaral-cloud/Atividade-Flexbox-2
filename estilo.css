@@ -80,3 +80,18 @@ h1 {
     align-items: flex-start;
     flex-direction: row;     
 }
+.container-exercicioB
+{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column-reverse;   
+  
+}
+.container-desafio
+{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    flex-direction: row-reverse;
+}
